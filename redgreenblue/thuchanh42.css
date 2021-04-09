@@ -1,0 +1,38 @@
+
+*   { 
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.box2 {
+    float: left;
+}
+.boxx{
+    box-sizing: border-box;
+    float: left;
+    width: 120%;    
+   
+}
+.red2{ 
+    height: 400px;
+    color: red;
+    background-color: red;
+    border-color: red;
+    width: 49.4%;     
+    margin-right: 15px;
+   
+}
+.green2 {
+    border-color: springgreen; 
+    height: 200px;
+    background-color: springgreen;
+    color:springgreen; 
+    width: 49.433%;    
+}
+.blue2 {
+    border-color: blue;
+    height: 200px;
+    width: 49.433%;    
+    background-color: blue;
+    color: blue;
+}
